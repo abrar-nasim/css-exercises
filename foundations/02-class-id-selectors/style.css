@@ -1,0 +1,17 @@
+.AllOddNumberedElements {
+    background-color: #ffc0cb;
+    font: Verdana,"DejaVu Sans", sans-seriff;
+}
+#TheSecondElement {
+    color: blue;
+    font-size: 36px;
+}
+#TheThirdElement {
+    font-size: 24px;
+}
+
+#TheFourthElement {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
