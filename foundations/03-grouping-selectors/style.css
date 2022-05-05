@@ -1,7 +1,3 @@
-.first, .second {
-    font: Helvetica, "Times New Roman", sans-serif;
-    font-size: 24px;
-}
 .first {
     color: white;
     background-color: black;
@@ -9,4 +5,9 @@
 
 .second {
     background-color: yellow;
+}
+
+.first, .second {
+    font: Helvetica, "Times New Roman", sans-serif;
+    font-size: 24px;
 }
