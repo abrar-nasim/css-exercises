@@ -45,4 +45,40 @@ a {
 
 ul {
   list-style-type: none;
+  margin: 0px;
+  padding: 20px;
+  margin-right:auto;
+}
+
+
+/* solution */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 10px;
+  
+}
+
+.notifications{
+  margin: 20px 10px;
+}
+
+.profile-image {
+  margin: 10px;
+}
+
+li {
+  margin: 3px;
 }
